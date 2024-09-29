@@ -6,9 +6,7 @@ Purpose: A Choose-Your-Own-Adventure game where the user simulates an escape
 Note:   All lines of code that satisfy the requirements of the lab are labeled 
         as "Satisfies [REQUIREMENT NUMBER]." However, if there were multiple 
         parts to the requirement, the number was listed in parts 
-        (e.g., 12A, 12B). If there were multiple parts that fulfilled the lab 
-        requirements, each part is still commented "Satisfies [REQUIREMENT 
-        NUMBER]".
+        (e.g., 12A, 12B).
 """
 
 import textwrap
