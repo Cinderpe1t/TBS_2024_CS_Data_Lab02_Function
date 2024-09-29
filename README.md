@@ -1,9 +1,9 @@
 # 2024 CS Algorithm and Data Structure Lab #2 - Function
 Practice and implement Python function parameters with position and keyword assignements
 ## Python files
-`lab02_final.py`<br>
+`lab2_final.py`<br>
 To run<br>
-`python3 lab02_final.py`
+`python3 lab2_final.py`
 ## Example output
 ```
 ********************************************************************************
