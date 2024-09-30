@@ -15,7 +15,7 @@ from typing import Union
 
 class Player:
     """Stores player information"""
-    def __init__(self) -> None:
+    def __init__(self):
         self.game_stage = ""
     
     def set_game_stage(self, stage:str = "Start") -> str:
